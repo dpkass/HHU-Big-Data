@@ -1,0 +1,11 @@
+aiosseclient==0.1.8
+matplotlib==3.10.1
+mrjob==0.7.4
+nest_asyncio==1.6.0
+networkx==3.3
+numpy==2.2.4
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.15.2
+tqdm==4.66.5
+xarray==2023.6.0
